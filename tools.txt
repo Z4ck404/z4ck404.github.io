@@ -8,10 +8,13 @@ process monitor : https://docs.microsoft.com/en-us/sysinternals/downloads/procmo
 install tcp/dump and procdot (visualize process): https://www.procdot.com/onlinedocumentation.htm
 
 
-#steps to follow to scan icloud / windows : 
+#steps to follow to scan icloud / windows :
+les appareil connecté avec un gmail :https://myaccount.google.com/device-activity
+les appareill connecté avec un outlook/hotamail : https://support.microsoft.com/fr-dz/help/4026645/microsoft-account-check-the-recent-sign-in-activity
+for icloud : https://support.apple.com/en-us/HT205064 
 
 #steps to follow to secure networks : 
+For the networks : check the links above
 
-#check photo sent to me ! 
 
 #The emails : 
