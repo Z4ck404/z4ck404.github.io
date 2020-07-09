@@ -1,0 +1,17 @@
+#tools to use to scan for rootkits/malwares (windows)
+
+https://www.mcafee.com/enterprise/en-us/downloads/free-tools/rootkitremover.html
+www.gmer.net
+https://www.avast.com/c-rootkit-scanner-tool
+
+process monitor : https://docs.microsoft.com/en-us/sysinternals/downloads/procmon
+install tcp/dump and procdot (visualize process): https://www.procdot.com/onlinedocumentation.htm
+
+
+#steps to follow to scan icloud / windows : 
+
+#steps to follow to secure networks : 
+
+#check photo sent to me ! 
+
+#The emails : 
