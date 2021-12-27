@@ -201,7 +201,7 @@
   padding: 6px 12px;
   font-size: 11px;
   text-indent: -5px;
-  line-height: 15px;
+  line-height: 15px; 
   -webkit-transition: 0.25s ease-out;
   transition: 0.25s ease-out;
 }
